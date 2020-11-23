@@ -14,4 +14,4 @@ USER INSTRUCTIONS:
 
  
 
-This Project is part from duke's university  java course Java Programming Arrays, Lists, and Structured Data from coursera
+This Project is part from duke's university  java course: Java Programming Arrays, Lists, and Structured Data from coursera
