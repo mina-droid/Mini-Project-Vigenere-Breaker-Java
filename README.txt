@@ -12,6 +12,4 @@ USER INSTRUCTIONS:
 
 !!Notice: if you dont have the dictionary of the language that the text is encrypted in then you will get wrong answers
 
- 
-
 This Project is part from duke's university  java course: Java Programming Arrays, Lists, and Structured Data from coursera
