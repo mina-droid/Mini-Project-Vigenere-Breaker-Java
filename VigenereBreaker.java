@@ -73,11 +73,7 @@ public class VigenereBreaker {
                 keyLength = i;
             }
         }
-        System.out.println("most valid words = " + maxWords);
-        for (int j = 0; j < keyLength; j++)
-        {
-            System.out.println(keyUsed[j]);
-        }
+               
         return ans;
     }
     
@@ -129,8 +125,8 @@ public class VigenereBreaker {
                 decUsed = dec;
             }
         }
-        System.out.println(max);
-        System.out.println(langUsed);
+        System.out.println("The original message language is: " +langUsed +
+         " with most valid words = " + max + " words");
         System.out.println(decUsed);
     }
     
